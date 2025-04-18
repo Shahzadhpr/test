@@ -1,63 +1,47 @@
-# Learn Git and Github
 
-<P>Lorem ipsum dolor sit amet :)</p>
+# Project Title
 
-___
-
-## code
-oneline `code`
-
-___
-
-```
-npm install
-
-```
-
-___
-
-### use js :
-
-```javascript
-console.log("Hello, World!");
-
-if (true) {
-    console.log("This condition is always true.");
-} else {
-    console.log("This condition is never reached.");
-}
-
-```
-
-***
-
-## lists :
-
-1. a
-2. b
-
-- front
-    - html
-    - css
-- back
-    - php
+A brief description of what this project does and who it's for
 
 
-## Blockquotes
+## Demo
+
+Insert gif or link to demo
 
 
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
+## 🚀 About Me
+I'm a full stack developer...
 
-___
 
-## links :
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-[Linkdin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-__
 
-## images :
 
-![minion](https://octodex.github.com/images/minion.png)
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Screenshots
+
+![App Screenshot]()
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
